@@ -1,0 +1,8 @@
+[account]
+deviceid = aaadddaa
+password = password1234
+username = austin
+
+[connection]
+rtmprelay = 18.217.120.158
+apiurl = http://18.217.120.158:443

@@ -1,0 +1,15 @@
+/dm388/
+/Config/
+/ESP8266Flasher.exe
+/sdDjango.pem
+/workLaptop.ovpn
+/duecei.pem
+
+### Django ### 
+*.log 
+*.pot 
+*.pyc 
+__pycache__/ 
+local_settings.py 
+db.sqlite3 
+media

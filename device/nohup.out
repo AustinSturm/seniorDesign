@@ -1,0 +1,2 @@
+ping: unknown host &
+nc: getaddrinfo: Servname not supported for ai_socktype
